@@ -1,3 +1,4 @@
+#this is calculator program
 while True:
     try:
         item = input("please enter space seperated like 2 + 3: ")
